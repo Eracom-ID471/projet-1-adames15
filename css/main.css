@@ -1229,8 +1229,12 @@ input::-moz-focus-inner {
   line-height: 1.3125;
   text-transform: uppercase;
   letter-spacing: 0.25rem;
-  color: #ffffff;
+  color: #052336;
   padding-top: 2rem;
+}
+
+.subhead3 a {
+  color: #052336;
 }
 
 
@@ -2864,12 +2868,12 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 2rem;
   padding-bottom: 8rem;
-  background-color: #000000;
+  background: #ededed;
   color: rgba(255, 255, 255, 0.3);
   position: relative;
 }
 .s-contact a {
-  color: #3b686f;
+  color: #052336;
   border-bottom: 1px solid transparent;
   display: inline-block;
 }
@@ -2933,12 +2937,12 @@ html.no-csstransitions .home-content__main {
   display: inline-block;
 }
 .contact-social li a {
-  color: rgba(255, 255, 255, 0.3);
+  color: #b1b1b1;
   border: none !important;
 }
 .contact-social li a:hover,
 .contact-social li a:focus {
-  color: #ffffff;
+  color: #052336;
 }
 .contact-social li:last-child {
   margin: 0;
@@ -3011,6 +3015,7 @@ html.no-csstransitions .home-content__main {
  * ## copyright
  * ------------------------------------------------------------------- */
 .cl-copyright {
+  color: #b1b1b1;
   margin-top: 2.1rem;
 }
 
@@ -3022,7 +3027,7 @@ html.no-csstransitions .home-content__main {
   content: "|";
   display: inline-block;
   padding: 0 1rem 0 1.2rem;
-  color: rgba(255, 255, 255, 0.1);
+  color: #b1b1b1;
 }
 .cl-copyright span:last-child::after {
   display: none;
