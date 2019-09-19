@@ -1,3 +1,45 @@
+
+
+
+La liste des points modifié sur mon portfolio:
+
+
+- Le logo
+- L'image de header
+- Les couleurs du background
+- Le texte sur la partie (Ma vision)
+- La typographie
+- La taille de texte
+- Le placement du liens CV, dans le menu.
+- Modification du liens instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================================================================
 
 DESCRIPTION:
