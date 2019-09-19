@@ -13,8 +13,8 @@ La liste des points améllioré sur mon portfolio:
 - Le placement du liens CV, dans le menu.
 - Modification du liens Instagram
 - Compression des vidéos
+- Changement de couleur de transition image / Portfolio
 - Séparation des images dans le portfolio
-
 
 
 
