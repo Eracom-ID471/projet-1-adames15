@@ -2500,7 +2500,7 @@ html.no-csstransitions .home-content__main {
 .item-folio__thumb a::before {
   z-index: 1;
   display: block;
-  background-color: rgba(200, 200, 200, 0.7);
+  background-color: rgba(55, 70, 90, 0.7);
   content: "";
   opacity: 0;
   visibility: hidden;
@@ -2537,6 +2537,10 @@ html.no-csstransitions .home-content__main {
   transform: scale(0.5);
 }
 
+.item-folio__text a {
+
+}
+
 .item-folio__text {
   z-index: 2;
   position: absolute;
@@ -2553,13 +2557,13 @@ html.no-csstransitions .home-content__main {
 }
 
 .item-folio__title {
-  color: #000000;
+  color: white;
   font-size: 2rem;
   margin: 0;
 }
 
 .item-folio__cat {
-  color: black;
+  color: white;
   font-family: 'Nunito', sans-serif;
   font-size: 1.5rem;
   margin-bottom: 0;
@@ -2567,6 +2571,7 @@ html.no-csstransitions .home-content__main {
 
 .item-folio__caption {
   display: none;
+  color: white;
 }
 
 .item-folio__project-link {
