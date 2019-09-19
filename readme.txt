@@ -1,20 +1,19 @@
 
 
 
-La liste des points modifié sur mon portfolio:
+La liste des points améllioré sur mon portfolio:
 
 
-- Le logo
+- Le logo & la taille
 - L'image de header
 - Les couleurs du background
 - Le texte sur la partie (Ma vision)
 - La typographie
-- La taille de texte
+- La taille de texte générale
 - Le placement du liens CV, dans le menu.
-- Modification du liens instagram
-
-
-
+- Modification du liens Instagram
+- Compression des vidéos
+- Séparation des images dans le portfolio
 
 
 
