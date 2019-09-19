@@ -2872,14 +2872,14 @@ html.no-csstransitions .home-content__main {
   position: relative;
 }
 .s-contact a {
-  color: #052336;
+  color: #b1b1b1;
   border-bottom: 1px solid transparent;
   display: inline-block;
 }
 .s-contact a:hover,
 .s-contact a:focus {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-  color: white;
+  color: #052336;
 }
 
 .contact-main {
