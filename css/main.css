@@ -2879,7 +2879,7 @@ html.no-csstransitions .home-content__main {
 .s-contact a:hover,
 .s-contact a:focus {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-  color: #052336;
+  color: white;
 }
 
 .contact-main {
@@ -2941,7 +2941,7 @@ html.no-csstransitions .home-content__main {
 }
 .contact-social li a:hover,
 .contact-social li a:focus {
-  color: #052336;
+  color: white;
 }
 .contact-social li:last-child {
   margin: 0;
