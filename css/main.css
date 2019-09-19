@@ -2481,7 +2481,7 @@ html.no-csstransitions .home-content__main {
 }
 .masonry__brick {
   float: left;
-  padding: 0;
+  padding: 0.5rem;
 }
 
 .item-folio {
