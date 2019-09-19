@@ -2369,7 +2369,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-  background-color: #101010;
+  background-color: #052336;
   padding-top: 10rem;
   padding-bottom: 10rem;
   color: #555555;
@@ -2455,7 +2455,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-  background: #052336;
+  background-color: #e5e5e5;
   padding: 18rem 0 24rem;
   position: relative;
 }
@@ -2867,7 +2867,7 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 2rem;
   padding-bottom: 8rem;
-  background: #ededed;
+  background-color: #052336;
   color: rgba(255, 255, 255, 0.3);
   position: relative;
 }
